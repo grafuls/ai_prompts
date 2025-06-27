@@ -1,0 +1,17 @@
+{
+  "prompts": [
+    {
+      "id": "prompt-1751049495903",
+      "title": "Meta-Prompt",
+      "description": "a prompt to rule them all",
+      "tags": [
+        "openai"
+      ],
+      "model": "gpt-4",
+      "createdAt": "2025-06-27T18:38:15.903Z",
+      "updatedAt": "2025-06-27T18:38:15.903Z",
+      "author": "grafuls",
+      "filename": "prompt-1751049495903.md"
+    }
+  ]
+}
