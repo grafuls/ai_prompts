@@ -72,6 +72,19 @@
       "filename": "new-prompt-1751052692663.txt",
       "createdAt": "2025-06-27T19:31:32.663Z",
       "updatedAt": "2025-06-27T19:31:32.663Z"
+    },
+    {
+      "id": "1751052778192",
+      "title": "how about now",
+      "description": "what about now",
+      "tags": [
+        "openai"
+      ],
+      "provider": "openai",
+      "model": "gpt-4-turbo",
+      "filename": "how-about-now-1751052778192.md",
+      "createdAt": "2025-06-27T19:32:58.192Z",
+      "updatedAt": "2025-06-27T19:32:58.192Z"
     }
   ]
 }
