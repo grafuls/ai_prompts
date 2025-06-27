@@ -41,6 +41,20 @@
       "updatedAt": "2025-06-27T18:55:47.184Z",
       "author": "grafuls",
       "filename": "prompt-1751050547184.md"
+    },
+    {
+      "id": "prompt-1751050711017",
+      "title": "Ideation blueprint",
+      "description": "A bluepring for the ideation",
+      "tags": [
+        "openai",
+        "ideation"
+      ],
+      "model": "gpt-4",
+      "createdAt": "2025-06-27T18:58:31.017Z",
+      "updatedAt": "2025-06-27T18:58:31.017Z",
+      "author": "grafuls",
+      "filename": "prompt-1751050711017.md"
     }
   ]
 }
