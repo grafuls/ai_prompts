@@ -15,20 +15,6 @@
       "filename": "prompt-1751049495903.md"
     },
     {
-      "id": "prompt-1751050257845",
-      "title": "Ideation",
-      "description": "Prompt for ideating ",
-      "tags": [
-        "openai",
-        "o3"
-      ],
-      "model": "gpt-4",
-      "createdAt": "2025-06-27T18:50:57.845Z",
-      "updatedAt": "2025-06-27T18:50:57.845Z",
-      "author": "grafuls",
-      "filename": "prompt-1751050257845.md"
-    },
-    {
       "id": "prompt-1751050338321",
       "title": "Ideation",
       "description": "Prompt for ideating ",
