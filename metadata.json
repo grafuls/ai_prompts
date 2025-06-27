@@ -25,9 +25,10 @@
       ],
       "model": "gpt-4",
       "createdAt": "2025-06-27T18:52:18.321Z",
-      "updatedAt": "2025-06-27T18:52:57.997Z",
+      "updatedAt": "2025-06-27T19:26:07.313Z",
       "author": "grafuls",
-      "filename": "prompt-1751050338321.md"
+      "filename": "prompt-1751050338321.md",
+      "provider": "openai"
     },
     {
       "id": "prompt-1751050547184",
