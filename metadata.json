@@ -59,6 +59,19 @@
       "author": "grafuls",
       "filename": "prompt-1751050711017.md",
       "provider": "anthropic"
+    },
+    {
+      "id": "1751055130185",
+      "title": "variable prompt",
+      "description": "variable prompt",
+      "tags": [
+        ""
+      ],
+      "provider": "openai",
+      "model": "gpt-4-turbo",
+      "filename": "variable-prompt-1751055130185.md",
+      "createdAt": "2025-06-27T20:12:10.185Z",
+      "updatedAt": "2025-06-27T20:12:10.185Z"
     }
   ]
 }
