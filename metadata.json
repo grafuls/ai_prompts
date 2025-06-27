@@ -27,6 +27,20 @@
       "updatedAt": "2025-06-27T18:52:57.997Z",
       "author": "grafuls",
       "filename": "prompt-1751050338321.md"
+    },
+    {
+      "id": "prompt-1751050547184",
+      "title": "Ideation wrap",
+      "description": "A wrapper on the ideation prompt",
+      "tags": [
+        "ideation",
+        "openai"
+      ],
+      "model": "gpt-4",
+      "createdAt": "2025-06-27T18:55:47.184Z",
+      "updatedAt": "2025-06-27T18:55:47.184Z",
+      "author": "grafuls",
+      "filename": "prompt-1751050547184.md"
     }
   ]
 }
