@@ -1,1 +1,1 @@
-This prompt is the {{ saywha }} 
+This prompt is the {{ saywha }} and the {{ saywho }}
