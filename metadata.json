@@ -61,19 +61,6 @@
       "provider": "anthropic"
     },
     {
-      "id": "1751052692663",
-      "title": "new prompt",
-      "description": "this is a new prompt",
-      "tags": [
-        "openai"
-      ],
-      "provider": "mistral",
-      "model": "mistral-large",
-      "filename": "new-prompt-1751052692663.txt",
-      "createdAt": "2025-06-27T19:31:32.663Z",
-      "updatedAt": "2025-06-27T19:31:32.663Z"
-    },
-    {
       "id": "1751052778192",
       "title": "how about now",
       "description": "what about now",
