@@ -51,11 +51,12 @@
         "openai",
         "ideation"
       ],
-      "model": "gpt-4",
+      "model": "claude-3-opus",
       "createdAt": "2025-06-27T18:58:31.017Z",
-      "updatedAt": "2025-06-27T18:58:31.017Z",
+      "updatedAt": "2025-06-27T19:24:32.837Z",
       "author": "grafuls",
-      "filename": "prompt-1751050711017.md"
+      "filename": "prompt-1751050711017.md",
+      "provider": "anthropic"
     }
   ]
 }
