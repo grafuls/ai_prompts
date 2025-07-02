@@ -73,6 +73,21 @@
       "filename": "variable-prompt-1751055130185.md",
       "createdAt": "2025-06-27T20:12:10.185Z",
       "updatedAt": "2025-06-30T08:00:50.681Z"
+    },
+    {
+      "id": "1751479531515",
+      "title": "Lyra",
+      "description": "YAMP - Yet another meta prompt",
+      "tags": [
+        "openai",
+        "meta",
+        "prompt"
+      ],
+      "provider": "openai",
+      "model": "gpt-4-turbo",
+      "filename": "lyra-1751479531515.md",
+      "createdAt": "2025-07-02T18:05:31.516Z",
+      "updatedAt": "2025-07-02T18:05:31.516Z"
     }
   ]
 }
