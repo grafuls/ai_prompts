@@ -88,6 +88,19 @@
       "filename": "lyra-1751479531515.md",
       "createdAt": "2025-07-02T18:05:31.516Z",
       "updatedAt": "2025-07-02T18:05:31.516Z"
+    },
+    {
+      "id": "1751574743006",
+      "title": "Context Engineering",
+      "description": "Context engineering for claude code",
+      "tags": [
+        "context engineering"
+      ],
+      "provider": "anthropic",
+      "model": "claude-3-opus",
+      "filename": "context-engineering-1751574743006.md",
+      "createdAt": "2025-07-03T20:32:23.006Z",
+      "updatedAt": "2025-07-03T20:32:23.006Z"
     }
   ]
 }
