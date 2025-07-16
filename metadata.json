@@ -101,6 +101,19 @@
       "filename": "context-engineering-1751574743006.md",
       "createdAt": "2025-07-03T20:32:23.006Z",
       "updatedAt": "2025-07-03T20:32:23.006Z"
+    },
+    {
+      "id": "1752654734319",
+      "title": "Prompt Genius",
+      "description": "",
+      "tags": [
+        ""
+      ],
+      "provider": "openai",
+      "model": "gpt-4-turbo",
+      "filename": "prompt-genius-1752654734319.md",
+      "createdAt": "2025-07-16T08:32:14.319Z",
+      "updatedAt": "2025-07-16T08:32:14.319Z"
     }
   ]
 }
