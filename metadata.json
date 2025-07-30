@@ -114,6 +114,20 @@
       "filename": "prompt-genius-1752654734319.md",
       "createdAt": "2025-07-16T08:32:14.319Z",
       "updatedAt": "2025-07-16T08:32:14.319Z"
+    },
+    {
+      "id": "1753853102227",
+      "title": "PRD",
+      "description": "Product Requirements Document",
+      "tags": [
+        "PRD",
+        "claude"
+      ],
+      "provider": "anthropic",
+      "model": "claude-3-sonnet",
+      "filename": "prd-1753853102227.md",
+      "createdAt": "2025-07-30T05:25:02.227Z",
+      "updatedAt": "2025-07-30T05:25:02.227Z"
     }
   ]
 }
