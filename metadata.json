@@ -128,6 +128,20 @@
       "filename": "prd-1753853102227.md",
       "createdAt": "2025-07-30T05:25:02.227Z",
       "updatedAt": "2025-07-30T05:25:02.227Z"
+    },
+    {
+      "id": "1754568146591",
+      "title": "Prompt engineer",
+      "description": "Prompt engineer",
+      "tags": [
+        "prompt",
+        "engineer"
+      ],
+      "provider": "openai",
+      "model": "gpt-4-turbo",
+      "filename": "prompt-engineer-1754568146591.md",
+      "createdAt": "2025-08-07T12:02:26.591Z",
+      "updatedAt": "2025-08-07T12:02:26.591Z"
     }
   ]
 }
