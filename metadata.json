@@ -142,6 +142,19 @@
       "filename": "prompt-engineer-1754568146591.md",
       "createdAt": "2025-08-07T12:02:26.591Z",
       "updatedAt": "2025-08-07T12:02:26.591Z"
+    },
+    {
+      "id": "1754888599543",
+      "title": "Google Imagen",
+      "description": "",
+      "tags": [
+        ""
+      ],
+      "provider": "google",
+      "model": "gemini-pro",
+      "filename": "google-imagen-1754888599543.md",
+      "createdAt": "2025-08-11T05:03:19.543Z",
+      "updatedAt": "2025-08-11T05:03:19.543Z"
     }
   ]
 }
